@@ -38,8 +38,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
+  headline: "<strong>Galileo</strong>"
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
