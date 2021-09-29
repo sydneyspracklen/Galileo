@@ -39,8 +39,7 @@ page_sections:
   media_alignment: Left
   slug: swap
   headline: "<strong>Galileo</strong>"
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  content: xxxxxx
   media:
     image: ''
     alt_text: ''
